@@ -2,6 +2,14 @@
 
 > The React Framework for the Web
 
+## Prerequisites
+
+> html & css
+
+> javascript (es6)
+
+> React Js : Components, JSX, State, Props, Hooks 
+
 Next.js and React.js are both popular tools in the world of web development, but they serve different purposes and have unique features. Here's a comparison to help you understand their differences and when you might want to use each one:
 
 React.js
