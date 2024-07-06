@@ -1,2 +1,3 @@
 # next-js-master-guide
-next js step by step training module 
+
+> The React Framework for the Web
