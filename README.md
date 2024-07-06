@@ -1,6 +1,4 @@
-# next-js-master-guide
-
-> The React Framework for the Web
+# Next js :: The React Framework for the Web
 
 ## Prerequisites
 
