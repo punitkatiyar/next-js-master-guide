@@ -10,13 +10,20 @@
 
 Next.js and React.js are both popular tools in the world of web development, but they serve different purposes and have unique features. Here's a comparison to help you understand their differences and when you might want to use each one:
 
-React.js
-Library: React is a JavaScript library for building user interfaces, particularly single-page applications.
-Flexibility: React provides a lot of flexibility, allowing developers to choose their own tools and libraries for things like routing and state management.
-Component-Based: React allows developers to build reusable UI components.
-Client-Side Rendering: React is primarily focused on client-side rendering, though it can be configured to support server-side rendering with additional libraries.
-Community and Ecosystem: React has a large and active community, with a wealth of resources, libraries, and tools available.
-Next.js
+## React.js
+
+**Library:** React is a JavaScript library for building user interfaces, particularly single-page applications.
+
+**Flexibility:** React provides a lot of flexibility, allowing developers to choose their own tools and libraries for things like routing and state management.
+
+**Component-Based:** React allows developers to build reusable UI components.
+
+**Client-Side Rendering:** React is primarily focused on client-side rendering, though it can be configured to support server-side rendering with additional libraries.
+
+**Community and Ecosystem:** React has a large and active community, with a wealth of resources, libraries, and tools available.
+
+## Next.js
+
 Framework: Next.js is a framework built on top of React, providing a more opinionated and feature-rich environment for building web applications.
 Server-Side Rendering (SSR): Next.js has built-in support for server-side rendering, allowing pages to be pre-rendered on the server, which can improve performance and SEO.
 Static Site Generation (SSG): Next.js supports static site generation, enabling the pre-rendering of pages at build time.
