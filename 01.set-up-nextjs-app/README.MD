@@ -58,27 +58,20 @@ found 0 vulnerabilities
 Success! Created my-app at C:\Users\ADMIN\Desktop\next-js\my-app
 
 
-C:\Users\ADMIN\Desktop\next-js>npm run next
-npm ERR! code ENOENT
-npm ERR! syscall open
-npm ERR! path C:\Users\ADMIN\Desktop\next-js\package.json
-npm ERR! errno -4058
-npm ERR! enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\ADMIN\Desktop\next-js\package.json'
-npm ERR! enoent This is related to npm not being able to find a file.
-npm ERR! enoent
+C:\Users\ADMIN\Desktop\next-js> cd my-app
+C:\Users\ADMIN\Desktop\next-js\my-app>npm run dev
 
-npm ERR! A complete log of this run can be found in: C:\Users\ADMIN\AppData\Local\npm-cache\_logs\2024-07-06T13_46_22_186Z-debug-0.log
+> my-app@0.1.0 dev
+> next dev
 
-C:\Users\ADMIN\Desktop\next-js>npm run dev
-npm ERR! code ENOENT
-npm ERR! syscall open
-npm ERR! path C:\Users\ADMIN\Desktop\next-js\package.json
-npm ERR! errno -4058
-npm ERR! enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\ADMIN\Desktop\next-js\package.json'
-npm ERR! enoent This is related to npm not being able to find a file.
-npm ERR! enoent
+  ▲ Next.js 14.2.4
+  - Local:        http://localhost:3000
 
-npm ERR! A complete log of this run can be found in: C:\Users\ADMIN\AppData\Local\npm-cache\_logs\2024-07-06T13_46_37_322Z-debug-0.log
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
 
-C:\Users\ADMIN\Desktop\next-js>
+
 ```
