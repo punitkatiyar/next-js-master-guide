@@ -1,6 +1,6 @@
 # Next js :: The React Framework for the Web
 
-## Prerequisites
+## 🧠 Prerequisites 
 
 > html & css
 
