@@ -2,11 +2,11 @@
 
 ## 🧠 Prerequisites 
 
-> html & css
+> html , css
 
-> javascript (es6)
+> javascript (ES6: let/const, arrow functions, array methods)
 
-> React Js : Components, JSX, State, Props, Hooks 
+> React (components, props, state) 
 
 Next.js and React.js are both popular tools in the world of web development, but they serve different purposes and have unique features. Here's a comparison to help you understand their differences and when you might want to use each one:
 
