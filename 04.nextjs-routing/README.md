@@ -4,3 +4,9 @@
 2. Route file must be name either page.js or page.jsx
 3. Each folder represents a sagament of the URL path
 
+```
+export default function Page() {
+    return <h1>This is Page</h1>
+}
+```
+
