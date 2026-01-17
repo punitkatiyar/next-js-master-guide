@@ -1,5 +1,5 @@
 # Nextjs components
 
-> server component
+> server component : default
 
-> client component
+> client component : 'use client'
