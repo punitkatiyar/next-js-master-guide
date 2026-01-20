@@ -13,3 +13,13 @@ export default function Page() {
 }
 ```
 
+## Creating Link 
+
+```
+import Link from "next/link"
+<Link href="/page">Back</Link>
+
+
+
+```
+
