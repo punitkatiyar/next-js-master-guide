@@ -33,3 +33,21 @@ const router = useRouter();
 <button onClick={() => router.push('/')}>Back</button>
 ```
 
+## Dynamic Routing
+
+```
+import { use } from "react"
+function Page({ params }) {
+    const { slug } = use(params);
+    return (
+        <div className="wrapper">
+            <h1>Person Name {slug}</h1>
+        </div>
+    )
+}
+
+export default Page
+
+```
+
+
