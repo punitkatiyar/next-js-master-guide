@@ -1,1 +1,7 @@
-# next directly structure 
+# Next JS Directly Structure
+
+> package.json
+
+>  
+
+
