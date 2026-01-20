@@ -13,13 +13,23 @@ export default function Page() {
 }
 ```
 
-## Creating Link 
+## Creating Link in Next Js
 
 ```
 import Link from "next/link"
+
 <Link href="/page">Back</Link>
+```
 
+## Creating Link Using Button
 
+```
+"use client"
 
+import { useRouter } from "next/navigation"
+
+const router = useRouter();
+
+<button onClick={() => router.push('/')}>Back</button>
 ```
 
